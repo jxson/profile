@@ -24,3 +24,44 @@ else
 fi
 
 bind "set completion-ignore-case on"
+
+##
+# Your previous /Users/jason/.profile file was backed up as /Users/jason/.profile.macports-saved_2009-05-30_at_14:29:34
+##
+
+# MacPorts Installer addition on 2009-05-30_at_14:29:34: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+# MacPorts Installer addition on 2009-05-30_at_14:29:34: adding an appropriate MANPATH variable for use with MacPorts.
+export MANPATH=/opt/local/share/man:$MANPATH
+# Finished adapting your MANPATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/jason/.profile file was backed up as /Users/jason/.profile.macports-saved_2009-09-01_at_11:07:16
+##
+
+# MacPorts Installer addition on 2009-09-01_at_11:07:16: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/jason/.profile file was backed up as /Users/jason/.profile.macports-saved_2009-09-01_at_11:10:49
+##
+
+# MacPorts Installer addition on 2009-09-01_at_11:10:49: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/jason/.profile file was backed up as /Users/jason/.profile.macports-saved_2010-03-18_at_12:39:07
+##
+
+# MacPorts Installer addition on 2010-03-18_at_12:39:07: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
